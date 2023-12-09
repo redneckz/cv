@@ -3,4 +3,5 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/cv",
   },
+  modules: ["@nuxt/image"],
 });
